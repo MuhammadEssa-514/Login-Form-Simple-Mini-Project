@@ -1,0 +1,46 @@
+/* code with sultan muhammad essa-514  */
+
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: times, verdana;
+	background-color: rgb(214, 214, 214);
+}
+.logForm{
+	width: 50%;
+	border-radius: 20px;
+	text-align: center;
+	background-color: rgb(214, 214, 214);
+	margin-left: 25%;
+	margin-top: 70px;
+	box-shadow: -7px -7px 20px rgba(255, 255, 255, 0.7),
+				 7px  7px 20px rgba(0, 0, 0, 0.2);
+}
+.userIcon{
+	font-size: 50px;
+	padding: 15px 0;
+}
+.logCommonColor{
+	color: #3ED0B2;
+}
+.email, .psw{
+	width: 50%;
+	height: 35px;
+	border: 1px solid rgba(255, 255, 255, 0.7);
+	border-radius: 10px;
+	margin: 15px 0 10px 0;
+	box-shadow: -7px -7px 20px rgba(255, 255, 255, 0.7),
+				 7px  7px 20px rgba(0, 0, 0, 0.2);
+}
+.submit{
+	width: 80px;
+	height: 40px;
+	background-color: #3ED0B2;
+	color: white;
+	border: 0px;
+	border-radius: 10px;
+	margin: 10px 0;
+}
+.submit:hover{
+	background-color: #1Fa363;
+}
